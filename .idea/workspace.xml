@@ -30,13 +30,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="1318" />
+          <entry key="html" value="1328" />
           <entry key="py" value="1173" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="1318" />
+          <entry key="HTML" value="1328" />
           <entry key="Python" value="1173" />
         </counts>
       </usages-collector>
@@ -59,8 +59,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="40" column="71" selection-start-line="40" selection-start-column="71" selection-end-line="40" selection-end-column="71" />
+            <state relative-caret-position="234">
+              <caret line="37" column="30" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -96,6 +96,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -112,6 +115,7 @@
     <option name="width" value="781" />
     <option name="height" value="692" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -197,11 +201,11 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32961586" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.33043477" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32961586" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32961586" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -217,17 +221,6 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/config.py">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/forms.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="63" lean-forward="true" selection-start-line="16" selection-start-column="63" selection-end-line="16" selection-end-column="63" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-            <marker date="1537284318081" expanded="true" signature="709:983" ph="..." />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/datacollecting.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -246,10 +239,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="63" lean-forward="true" selection-start-line="16" selection-start-column="63" selection-end-line="16" selection-end-column="63" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+            <marker date="1537284318081" expanded="true" signature="709:983" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/templates/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="40" column="71" selection-start-line="40" selection-start-column="71" selection-end-line="40" selection-end-column="71" />
+        <state relative-caret-position="234">
+          <caret line="37" column="30" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
         </state>
       </provider>
     </entry>
