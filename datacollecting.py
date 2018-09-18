@@ -4,7 +4,7 @@ from user import User
 from passwordhelper import PasswordHelper
 from forms import RegistrationForm
 from forms import LoginForm
-from mockdbhelper import MockDBHelper as DBHelper
+from dbhelper import DBHelper as DBHelper
 
 DB = DBHelper()
 PH = PasswordHelper()
