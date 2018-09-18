@@ -5,3 +5,6 @@ threadsafe: true
 handlers:
   - url: /.*
     script: datacollecting.app
+
+  - name: ssl
+    version: latest
